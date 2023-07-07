@@ -12,7 +12,7 @@ function cl() {
         ls -F --color=auto
 }
 
-# rename directory using rename
+# rename directory 
 function rnm() {
-    echo "rename 's/$1/$2/' *"
+    rename "s/$1/$2/" *;
 }

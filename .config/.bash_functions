@@ -1,5 +1,6 @@
 # bash functions
 
+# cd into a directory and list contents
 function cl() {
     DIR="$*";
         # if no DIR given, go home
@@ -10,4 +11,8 @@ function cl() {
     # use your preferred ls command
         ls -F --color=auto
 }
-	
+
+# rename directory using rename
+function rnm() {
+    rename 's/$1/$2/' *
+}

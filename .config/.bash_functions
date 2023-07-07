@@ -14,5 +14,5 @@ function cl() {
 
 # rename directory using rename
 function rnm() {
-    rename 's/$1/$2/' *
+    echo "rename 's/$1/$2/' *"
 }

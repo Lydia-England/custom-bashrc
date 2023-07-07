@@ -1,6 +1,8 @@
 # bash aliases
 
 # list and sort
+alias ll='ls -l'
+alias la='ls -A'
 alias l='ls -CF'
 alias lt='ls --human-readable --size -1 -S --classify'  # sort by file size
 alias left='ls -t -1 -l'  # sort by modification time

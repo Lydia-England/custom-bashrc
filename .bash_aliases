@@ -38,13 +38,6 @@ alias cd....='cd ../../../../'
 alias cd.....='cd ../../../../../'
 
 
-# specific navigation
-alias tolydia='cd /mnt/c/Users/lydia/'   # get from /home/london to my local directory
-alias tolondon='cd /home/london'   # get from my local directory to /home/london
-alias toncl='cd /mnt/c/Users/lydia/Downloads/NCL'   # get from /home/london to NCL directory
-alias togit='cd /mnt/c/Users/lydia/Downloads/CS/GIT'   # get from /home/london to GIT
-
-
 # Python virtual environments
 alias ve='python3 -m venv ./venv'     # create a new venv directory
 alias va='source .venv/bin/activate'  # activate environment in current shell

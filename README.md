@@ -1,20 +1,12 @@
 # custom-bashrc
-My bashrc setup! (work in progress)
+Bash aliases and bash functions I use :)
 
 ### Table of Contents
 - [Files Included](/#Files-Included)
-  - [.bashrc](/#.bashrc)
-  - [.bash_functions](/#.bash_functions)
-  - [.bash_aliases](/#.bash_aliases)
+  - [.bash_functions](/#https://github.com/Lydia-England/custom-bashrc/blob/main/.bash_functions)
+  - [.bash_aliases](/#https://github.com/Lydia-England/custom-bashrc/blob/main/.bash_aliases)
 - [Credits](/#Credits)
 
-## Files Included
-
-### .bashrc
-
-### .bash_functions
-
-### .bash_aliases
 
 ## Credits
 
